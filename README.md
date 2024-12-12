@@ -1,12 +1,12 @@
-Brodie Lee's Github page:
+<h1> Brodie Lee's Github page: </h1>
 
-Currently using this page for learning:
-  ◆  Proofs and Problem Solving (MATH 2800)
-  ◆  Computer Science I (COSC 1020)
-  ◆  Web Development:
-      ◇ gurfc.com (html/css/js) => migrating to Next.js soon to better keep in touch with alumni
+Currently using this page for learning:<br>
+>  ◆  Proofs and Problem Solving (MATH 2800) <br>
+>  ◆  Computer Science I (COSC 1020) <br>
+>  ◆  Web Development: <br>
+>     ◇ gurfc.com (html/css/js) => migrating to Next.js soon to better keep in touch with alumni
 
-Reach out to me at: bsl54@georgetown.edu if you are interested in talking to me about any of the above
+Reach out to me at: bsl54@georgetown.edu if you are interested in talking to me about any of the above!
     
 <!---
 BrodieL3/BrodieL3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
