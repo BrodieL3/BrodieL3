@@ -1,15 +1,12 @@
-<h1> Brodie Lee's Github page: </h1>
+<h1>Brodie Lee is building:</h1>
+<ul>
+<li>A health tracking app</li>
+<li>An office organization tool</li>
+<li>An iOS AI app</li>
+</ul>
+<h2>Collaborators</h2>
+<ul>
+    <li>@alexfreund381</li>
+    <li>@rosulli</li>
+</ul>
 
-Currently using this page for learning:<br>
->  ◆  Regression Analysis (MATH 2540) <br>
->  ◆  Computer Science II (COSC 1030) <br>
->  ◆  Web Development: <br>
->     ◇ gurfc.com (html/css/js) => migrating to Next.js soon to better keep in touch with alumni <br>
->     ◇ COMING SOON - A nutrition tracker for college students
-
-Reach out to me at: bsl54@georgetown.edu if you are interested in talking to me about any of the above!
-    
-<!---
-BrodieL3/BrodieL3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
